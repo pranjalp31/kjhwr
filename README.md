@@ -4,7 +4,7 @@ A web app for a UK energy buyer who must commit to day-ahead power purchases.
 It shows (1) the wind forecast that was actually available at decision time and
 (2) how accurate that forecast has been, quantified.
 
-Live app:https://kjhwr-c6zajzck7-p-1160.vercel.app/
+Live app:https://kjhwr-three.vercel.app/
 
 ## Scope and data
 - National GB wind only, from Elexon BMRS: actuals from `FUELHH` (`fuelType=WIND`),
